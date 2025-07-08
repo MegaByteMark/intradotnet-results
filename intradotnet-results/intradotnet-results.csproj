@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>IntraDotNet.Results</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>IntraDotNet.Results</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>MegaByteMark</Authors>
+    <Description>A standalone library for simple Result pattern implementation</Description>
+    <PackageTags>Utilities;Helpers;DotNet;CSharp</PackageTags>
+    <RepositoryUrl>https://github.com/MegaByteMark/intradotnet-results</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/MegaByteMark/intradotnet-results</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+</Project>
